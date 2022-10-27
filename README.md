@@ -1,4 +1,4 @@
-# etcg-Subcategories
+# eTCG Subcategories
 
 Whether you're using mass decks or getting creative, you can use this to separate one category into different places. This script will also display pending cards.
 
